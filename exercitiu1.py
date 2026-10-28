@@ -1,0 +1,1 @@
+print("Astazi este miercuri.")
